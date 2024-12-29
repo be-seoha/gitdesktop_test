@@ -1,1 +1,2 @@
-hello, This is a git desktop test! 
+hello, 
+This is a git desktop test! 
